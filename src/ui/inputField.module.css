@@ -1,0 +1,16 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--slate-700);
+}
+
+.input input {
+    padding: 1em;
+    margin: 1em 0;
+    border: 1px solid var(--slate-300);
+    border-radius: .3em;
+    font-size: 1.4rem;
+}
